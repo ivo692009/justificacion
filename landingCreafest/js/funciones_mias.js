@@ -159,7 +159,7 @@ function marcado(){
 			
 		//Si todos los campos estan llenos o todos los campos estan vacios, todo OK, sino le falto algun campo
 			
-			 if ((y1 == 1)|| (z2==1)){
+			 if ((y1 == 1)|| (z1==1)){
 				 //Todo ok.
 				}
 		//Indicar que campo hace falta
