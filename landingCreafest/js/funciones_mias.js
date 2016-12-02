@@ -81,7 +81,7 @@ function marcado(){
 				var fechaHoy = new Date(); // detecto la fecha actual y asigno el dia, mes y anno a variables distintas
 				var anioActual = fechaHoy.getFullYear();
 			
-				if((anioActual - anio) <= 17 || (anioActual - anio) >= 101){
+				if((anioActual - anio) <= 14 || (anioActual - anio) >= 101){
 					return 1;
 				}
 				else{
@@ -473,3 +473,4 @@ function marcado(){
 				campo.required = false;
 			}
 		}
+		

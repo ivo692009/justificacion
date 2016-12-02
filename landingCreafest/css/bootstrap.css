@@ -201,11 +201,9 @@ html {
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  line-height: 2.5rem;
   color: #555555;
   background-color: #efefef;
-  background-image: url("../images/demo/MARCA-04.png");
+  background-image: url("../images/demo/MARCA-04.jpg");
   
 }
 input,
@@ -2314,6 +2312,10 @@ select[multiple].input-lg {
     color: #444444;
     background-color: transparent;
   }
+ 	.img.icono-social .img.icono-social:hover,
+	.img.icono-social .img.icono-social:focus {
+  	background-color: #333333;
+}
 }
 .navbar-inverse .navbar-link {
   color: #999999;
