@@ -2,7 +2,7 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Rayentray Puerto Madryn"; // Venue
+    var venueAddress = "2886 Bv. Almte BrownPuerto Madryn, Chubut"; // Venue
     /////////////////////////////////////////////////// Adress
 
     var fn = {
